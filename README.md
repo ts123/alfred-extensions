@@ -1,2 +1,2 @@
 #### Launch with Argumetns
-Launch an /Applications/*.app with commandline arguments
+Launch an .app file with commandline arguments
